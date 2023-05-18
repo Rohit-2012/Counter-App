@@ -1,0 +1,22 @@
+.mainBox{
+  margin: auto;
+  position: relative;
+  /* top: 10rem; */
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 35rem;
+  height: 25rem;
+  font-size: 5rem;
+  border-radius: 14px;
+  background-color: rgba(221, 233, 229, 0.814);
+  box-shadow: 5px 5px 4px rgba(110, 107, 107, 0.834);
+}
+
+.middle{
+  display: flex;
+  gap: 4rem;
+  /* justify-content: space-between; */
+  align-items: center;
+}
